@@ -14,3 +14,6 @@
 #Chưa hoàn thành: 
 - Responsive chưa đạt.
 - Chưa viết được plugin Slider sử dụng template  @ https://github.com/jquery-boilerplate/jquery-boilerplate .
+
+#Run
+demo/index.html
